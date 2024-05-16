@@ -22,7 +22,7 @@ export default function About() {
       </Row>
     </Container>
         <p>
-          My name is Jane Jones. I made a decision to enrol in a bootcamp to learn coding, an entirely new feat. My portfolio attests to my lack of experience, but not my lack of determination to get better over time!
+          My name is Jasmine Jasani. I made a decision to enrol in a bootcamp to learn coding, an entirely new feat. My portfolio attests to my lack of experience, but not my lack of determination to get better over time!
         </p>
       </div>
     );
